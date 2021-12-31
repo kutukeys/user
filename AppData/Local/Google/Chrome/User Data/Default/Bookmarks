@@ -1,0 +1,75 @@
+{
+   "checksum": "eb35b676ee1c688e9caad56f80997681",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13231072990461102",
+            "guid": "1218d788-7be7-4720-bedd-a8be5acd5c3e",
+            "id": "5",
+            "name": "Xender Web",
+            "type": "url",
+            "url": "http://192.168.43.1:33455/web/index.html"
+         }, {
+            "date_added": "13241763307028042",
+            "guid": "97372170-95ab-4d29-8887-7ae0a9fa6e02",
+            "id": "7",
+            "name": "Become a Master Hacker – A Complete Guide for Beginners | Shubham's blog",
+            "type": "url",
+            "url": "https://spyboy.blog/2016/02/19/become-a-master-hacker-a-complete-guide-for-beginners/"
+         }, {
+            "date_added": "13242134788201907",
+            "guid": "3c421b1a-2d7c-493d-8637-cc25a100a180",
+            "id": "9",
+            "name": "Best CMD Commands Used By Hackers | Shubham's blog",
+            "type": "url",
+            "url": "https://spyboy.blog/2020/07/09/best-cmd-commands-used-hackers/"
+         }, {
+            "date_added": "13242136297004153",
+            "guid": "0b05d9ac-3ab0-40e7-9c02-08ffbf1d8d3b",
+            "id": "10",
+            "name": "RUN CMD Commands With a Desktop Shortcut on Windows 10 | Shubham's blog",
+            "type": "url",
+            "url": "https://spyboy.blog/2020/07/15/run-cmd-commands-with-a-desktop-shortcut-on-windows-10/"
+         }, {
+            "date_added": "13242136613090873",
+            "guid": "9f9f084a-8aa5-4e77-acc7-7a54d630cd1a",
+            "id": "11",
+            "name": "Programming | Shubham's blog",
+            "type": "url",
+            "url": "https://spyboy.blog/category/programming/"
+         }, {
+            "date_added": "13244036347512229",
+            "guid": "480ba566-a09b-4b5b-90d7-22b1ac93a5c5",
+            "id": "13",
+            "name": "Git",
+            "type": "url",
+            "url": "https://git-scm.com/video/what-is-version-control"
+         } ],
+         "date_added": "13231070418929301",
+         "date_modified": "13244036347512229",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13231070418929326",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13231070418929334",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

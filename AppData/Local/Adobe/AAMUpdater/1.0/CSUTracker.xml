@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Updates CSUVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CSUTracker.xsd">
+<UpdateRef Combo="0" PreviewPatch="0" ReFetch="0" RefID="PhotoshopCameraRaw7-7.0/9.1.88" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>PhotoshopCameraRaw7-7.0</ChannelID>
+<LEID>Camera_Raw-7-Win-GM</LEID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Photoshop Camera Raw 9.1.1(CS6)</en_US>
+<fr_FR>Mise à jour 9.1.1(CS6) de Photoshop Camera Raw</fr_FR>
+<de_DE>Photoshop Camera Raw 9.1.1(CS6)-Update</de_DE>
+<it_IT>Aggiornamento di Photoshop Camera Raw 9.1.1(CS6)</it_IT>
+<ja_JP>Photoshop Camera Raw 9.1.1(CS6) アップデート</ja_JP>
+<es_ES>Actualización Photoshop Camera Raw 9.1.1(CS6)</es_ES>
+<sv_SE>Uppdatering till Photoshop Camera Raw 9.1.1(CS6)</sv_SE>
+<zh_CN>Photoshop Camera Raw 9.1.1(CS6) 更新</zh_CN>
+<zh_TW>Photoshop Camera Raw 9.1.1(CS6) 更新</zh_TW>
+<nl_NL>Photoshop Camera Raw 9.1.1(CS6)-update</nl_NL>
+<ko_KR>Photoshop Camera Raw 9.1.1(CS6) 업데이트</ko_KR>
+<nb_NO>Oppdatering for Photoshop Camera Raw 9.1.1(CS6)</nb_NO>
+<da_DK>Photoshop Camera Raw 9.1.1(CS6)-opdatering</da_DK>
+<fi_FI>Photoshop Camera Raw 9.1.1(CS6) -päivitys</fi_FI>
+<pl_PL>Photoshop Camera Raw 9.1.1(CS6) – aktualizacja</pl_PL>
+<cs_CZ>Aktualizace Photoshop Camera Raw 9.1.1(CS6)</cs_CZ>
+<ro_RO>Actualizare Photoshop Camera Raw 9.1.1(CS6)</ro_RO>
+<hu_HU>Photoshop Camera Raw 9.1.1(CS6) frissítés</hu_HU>
+<ru_RU>Обновление Photoshop Camera Raw 9.1.1(CS6)</ru_RU>
+<pt_BR>Atualização do Photoshop Camera Raw 9.1.1(CS6)</pt_BR>
+<uk_UA>Оновлення Photoshop Camera Raw 9.1.1(CS6)</uk_UA>
+<tr_TR>Photoshop Camera Raw 9.1.1(CS6) Güncellemesi</tr_TR>
+</DisplayName>
+<Description default="en_US">
+<en_US>Update to the Camera Raw plug-in that ships with Photoshop CS6.  Adds raw support for new camera models.</en_US>
+<fr_FR>Mise à jour du module externe Camera Raw fourni avec Photoshop CS6.  Ajoute la prise en charge des fichiers Raw pour les nouveaux modèles d&apos;appareils photo.</fr_FR>
+<de_DE>Update für das Camera Raw-Zusatzmodul, das im Lieferumfang von Photoshop CS6 enthalten ist.  Zusätzliche Unterstützung für Raw-Dateien aus neuen Kameramodellen.</de_DE>
+<it_IT>Eseguite l&apos;aggiornamento del plug-in di Camera Raw in dotazione con Photoshop CS6.  Consente il supporto per i file raw per nuovi modelli di fotocamere.</it_IT>
+<ja_JP>Photoshop CS6 に同梱されている Camera Raw プラグインに更新します。  新しいカメラモデル対応の Raw サポートが追加されます。</ja_JP>
+<es_ES>Actualización para el plugin Camera Raw suministrado con Photoshop CS6.  Permite la compatibilidad con los archivos RAW de los nuevos modelos de cámara.</es_ES>
+<sv_SE>Uppdatera plugin-programmet Camera Raw som levereras med Photoshop CS6.  Lägger till stöd för raw-format för nya kameramodeller.</sv_SE>
+<zh_CN>Photoshop CS6 随附的 Camera Raw 插件的更新。针对新相机型号增加 raw 文件格式支持。</zh_CN>
+<zh_TW>更新 Photoshop CS6 隨附的 Camera Raw 增效模組。  新增對新相機機型的原生支援。</zh_TW>
+<nl_NL>Update voor de Camera Raw-plug-in die bij Photoshop CS6 wordt geleverd.  Voegt RAW-ondersteuning toe voor nieuwe cameramodellen.</nl_NL>
+<cs_CZ>Aktualizace zásuvného modulu Camera Raw, dodávaného s aplikací Photoshop CS6.  Přidává podporu formátu raw u nových modelů fotoaparátů.</cs_CZ>
+<nb_NO>Oppdatering for tilleggsmodulen Camera Raw som leveres med Photoshop CS6.  Legger til ekte støtte for nye kameramodeller.</nb_NO>
+<da_DK>Opdatering til Camera Raw-ekstramodulet, der leveres sammen med Photoshop CS6.  Føjer Raw-understøttelse til nye kameramodeller.</da_DK>
+<fi_FI>Photoshop CS6:n mukana toimitettavan Camera Raw -laajennuksen päivitys.  Lisää raw-tuen uusille kameramalleille.</fi_FI>
+<pl_PL>Aktualizacja wtyczki Camera Raw, która jest dołączona do programu Photoshop CS6.  Dodaje obsługę RAW dla nowych modeli aparatów.</pl_PL>
+<ko_KR>Photoshop CS6와 함께 제공된 Camera Raw 플러그인을 업데이트합니다.  새 카메라 모델의 raw 파일 지원 추가.</ko_KR>
+<ro_RO>Actualizaţi la plugin-ul Camera Raw livrat cu Photoshop CS6.  Acesta adaugă compatibilitate cu formate brute de la noi modele de camere foto.</ro_RO>
+<hu_HU>A Photoshop CS6 verzióhoz tartozó Camera Raw bővítmény frissítése.  Biztosítja a raw-formátum támogatását újabb fényképezőgép-típusok esetében is.</hu_HU>
+<ru_RU>Обновление внешнего модуля Camera Raw, который входит в комплект поставки Photoshop CS6.  Добавлена поддержка формата raw для новых моделей камер.</ru_RU>
+<pt_BR>Atualização do plug-in do Camera Raw fornecido com o Photoshop CS6.  Inclusão de suporte adicional para novos modelos de câmeras.</pt_BR>
+<uk_UA>Оновлення для модуля Camera Raw, що постачається з пакетом Photoshop CS6.  Додано підтримку формату raw для нових моделей фотокамер.</uk_UA>
+<tr_TR>Photoshop CS6 ile birlikte verilen Camera Raw eklentisine güncelleyin.  Yeni fotoğraf makinesi modelleri için raw desteği sağlar.</tr_TR>
+</Description>
+<AffectedChannels>
+<ChannelID>PhotoshopCameraRaw7-7.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>230832150</Size>
+<CompareType name="OSPlatformLookup">
+<TargetValue>6.1</TargetValue>
+<Operator>GreaterThan</Operator>
+</CompareType>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" PreviewPatch="0" ReFetch="0" RefID="AdobeApplicationManager-1.0/update14" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeApplicationManager-1.0</ChannelID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<ar_AE>Adobe Application Manager</ar_AE>
+<bg_BG>Adobe Application Manager</bg_BG>
+<cs_CZ>Adobe Application Manager</cs_CZ>
+<da_DK>Adobe Application Manager</da_DK>
+<de_DE>Adobe Application Manager</de_DE>
+<el_GR>Adobe Application Manager</el_GR>
+<en_US>Adobe Application Manager</en_US>
+<es_ES>Adobe Application Manager</es_ES>
+<et_EE>Adobe Application Manager</et_EE>
+<fi_FI>Adobe Application Manager</fi_FI>
+<fr_FR>Adobe Application Manager</fr_FR>
+<he_IL>Adobe Application Manager</he_IL>
+<hr_HR>Adobe Application Manager</hr_HR>
+<hu_HU>Adobe Application Manager</hu_HU>
+<it_IT>Adobe Application Manager</it_IT>
+<ja_JP>Adobe Application Manager</ja_JP>
+<ko_KR>Adobe Application Manager</ko_KR>
+<lt_LT>Adobe Application Manager</lt_LT>
+<lv_LV>Adobe Application Manager</lv_LV>
+<nb_NO>Adobe Application Manager</nb_NO>
+<nl_NL>Adobe Application Manager</nl_NL>
+<pl_PL>Adobe Application Manager</pl_PL>
+<pt_BR>Adobe Application Manager</pt_BR>
+<ro_RO>Adobe Application Manager</ro_RO>
+<ru_RU>Adobe Application Manager</ru_RU>
+<sk_SK>Adobe Application Manager</sk_SK>
+<sl_SI>Adobe Application Manager</sl_SI>
+<sv_SE>Adobe Application Manager</sv_SE>
+<tr_TR>Adobe Application Manager</tr_TR>
+<uk_UA>Adobe Application Manager</uk_UA>
+<zh_CN>Adobe Application Manager</zh_CN>
+<zh_TW>Adobe Application Manager</zh_TW>
+</DisplayName>
+<Description default="en_US">
+<en_US>Required to keep Adobe applications up to date, includes Adobe Software Integrity Service</en_US>
+<cs_CZ>Nezbytný nástroj k zajištění aktualizací pro aplikace Adobe. Součástí je služba Adobe Software Integrity Service</cs_CZ>
+<da_DK>Påkrævet for at holde Adobe-programmer opdateret, omfatter Adobe Software Integrity Service</da_DK>
+<de_DE>Erforderlich, um Adobe-Applikationen auf dem neuesten Stand zu halten. Umfasst Adobe Software Integrity Service</de_DE>
+<es_ES>Necesario para mantener las aplicaciones de Adobe actualizadas. Incluye Adobe Software Integrity Service.</es_ES>
+<es_MX>Necesario para mantener las aplicaciones de Adobe actualizadas. Incluye Adobe Software Integrity Service.</es_MX>
+<fi_FI>Tarvitaan Adoben sovellusten pitämiseksi ajan tasalla, sisältää Adobe Software Integrity Servicen</fi_FI>
+<fr_FR>Nécessaire pour garder les applications Adobe à jour, y compris Adobe Software Integrity Service</fr_FR>
+<fr_CA>Nécessaire pour garder les applications Adobe à jour, y compris Adobe Software Integrity Service</fr_CA>
+<it_IT>Richiesto per mantenere le applicazioni Adobe aggiornate. Comprende Adobe Software Integrity Service</it_IT>
+<ja_JP>Adobe Software Integrity Service を含むアドビアプリケーションを最新の状態に保つ必要があります</ja_JP>
+<ko_KR>Adobe 응용 프로그램을 최신 상태로 유지하기 위해 필요하며, Adobe Software Integrity Service를 포함합니다</ko_KR>
+<nb_NO>Nødvendig for å holde Adobe-applikasjoner oppdatert, inkludert Adobe Software Integrity Service</nb_NO>
+<nl_NL>Vereist om Adobe-toepassingen up-to-date te houden. Bevat Adobe Software Integrity Service</nl_NL>
+<pl_PL>Wymagany do aktualizacji aplikacji Adobe. Zawiera usługę Adobe Software Integrity Service</pl_PL>
+<pt_BR>Necessário para manter os aplicativos da Adobe atualizados, inclui o Adobe Software Integrity Service</pt_BR>
+<ru_RU>Необходим для поддержки актуальности приложений Adobe. Включает службу Adobe Software Integrity Service.</ru_RU>
+<sv_SE>Krävs för att hålla Adobe-program uppdaterade, inklusive Adobe Software Integrity Service</sv_SE>
+<tr_TR>Adobe uygulamalarının güncel tutulması için gereklidir, Adobe Software Integrity Service&apos;ı içerir</tr_TR>
+<zh_CN>需要始终将 Adobe 应用程序保持为最新版本，包括 Adobe Software Integrity Service</zh_CN>
+<zh_TW>必須讓 Adobe 應用程式保持最新狀態，包含 Adobe Software Integrity Service</zh_TW>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeApplicationManager-1.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File>
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>Set-up.exe</ExecutableName>
+<SilentExecutableArgs>--action=update</SilentExecutableArgs>
+<Size>77875038</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" PreviewPatch="0" ReFetch="0" RefID="AdobeExportAssets264bit-2.0/2.4" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeExportAssets264bit-2.0</ChannelID>
+</Recommendation>
+<Recommendation>
+<ChannelID>AdobePhotoshopCC2015-16.0</ChannelID>
+<LEID>V7{}Photoshop-16-Win-GM</LEID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Export Options</en_US>
+<de_DE>Export Options</de_DE>
+<fr_FR>Export Options</fr_FR>
+<it_IT>Export Options</it_IT>
+<ja_JP>Export Options</ja_JP>
+<es_ES>Export Options</es_ES>
+<sv_SE>Export Options</sv_SE>
+<zh_CN>Export Options</zh_CN>
+<zh_TW>Export Options</zh_TW>
+<nl_NL>Export Options</nl_NL>
+<ko_KR>Export Options</ko_KR>
+<nb_NO>Export Options</nb_NO>
+<da_DK>Export Options</da_DK>
+<fi_FI>Export Options</fi_FI>
+<pl_PL>Export Options</pl_PL>
+<cs_CZ>Export Options</cs_CZ>
+<hu_HU>Export Options</hu_HU>
+<ru_RU>Export Options</ru_RU>
+<pt_BR>Export Options</pt_BR>
+<uk_UA>Export Options</uk_UA>
+<tr_TR>Export Options</tr_TR>
+</DisplayName>
+<Description default="en_US">
+<en_US>Improved functionality includes multi-size export, converting to sRGB, adding metadata, new PNG options and up to 3x faster performance.</en_US>
+<de_DE>Zur verbesserten Funktionalität zählen das Exportieren in mehreren Größen, die Konvertierung in sRGB, das Hinzufügen von Metadaten, neue PNG-Optionen und eine bis zu dreimal höhere Leistung.</de_DE>
+<fr_FR>Fonctionnalités améliorées : exportation dans différents formats, conversion en sRVB, ajout de métadonnées, nouvelles options PNG et performances jusqu&apos;à 3 fois plus rapides.</fr_FR>
+<it_IT>Questa funzionalità migliorata include esportazione di più dimensioni, conversione a sRGB, aggiunta di metadati, nuove opzioni PNG e prestazioni tre volte più veloci.</it_IT>
+<ja_JP>改善した機能には、複数サイズの書き出し、sRGB への変換、メタデータの追加、新しい PNG オプション、最大 3 倍のパフォーマンス高速化などがあります。</ja_JP>
+<es_ES>Hemos mejorado la funcionalidad para incluir una opción de exportación a varios tamaños, conversión a sRGB, adición de metadatos, nuevas opciones de PNG y un rendimiento hasta 3 veces más rápido.</es_ES>
+<sv_SE>De förbättrade funktionerna är bland annat funktioner för att exportera med flera storlekar, konvertera till sRGB och lägga till metadata. Dessutom finns det nya PNG-alternativ och prestanda har förbättrats med upp till 3 gånger.</sv_SE>
+<zh_CN>改进的功能，包括多尺寸导出、转换为 sRGB、添加元数据、新的 PNG 选项以及提升高达 3 倍的性能。</zh_CN>
+<zh_TW>改進功能包括：多尺寸轉存、轉換為 sRGB、新增中繼資料、全新 PNG 選項，以及速度快上 3 倍的效能。</zh_TW>
+<nl_NL>Verbeterde functionaliteit, inclusief exporteren in meerdere formaten, omzetten naar sRGB, metagegevens toevoegen, nieuwe PNG-opties en tot 3x snellere prestaties.</nl_NL>
+<ko_KR>여러 크기로 내보내기, sRGB로 변환, 메타데이터 추가, 새 PNG 옵션과 같은 기능이 개선되었으며 속도가 최대 3배 빨라졌습니다.</ko_KR>
+<nb_NO>Den forbedrede funksjonaliteten gjør at du kan eksportere i flere størrelser, konvertere til sRGB, legge til metadata, bruke nye PNG-alternativer og få opptil tre ganger raskere ytelse.</nb_NO>
+<da_DK>Forbedret funktionalitet omfatter eksport i flere størrelser, konvertering til sRGB, tilføjelse af metadata, nye PNG-indstillinger og op til 3x hurtigere ydeevne.</da_DK>
+<fi_FI>Parannettuja toimintoja ovat esimerkiksi vienti useassa koossa, sRGB-muunto, metatietojen lisäys, uudet PNG-asetukset ja jopa kolme kertaa parempi suorituskyky.</fi_FI>
+<pl_PL>Ulepszona funkcjonalność zawiera opcję eksportowania plików wielowymiarowych, opcję konwertowania do formatu sRGB, opcję dodawania metadanych i nowe opcje PNG. Nawet 3-krotnie przyspiesza wydajność.</pl_PL>
+<cs_CZ>Mezi vylepšené funkce patří export více velikostí, převod do prostoru sRGB, přidání metadat, nové předvolby formátu PNG a až třikrát vyšší výkon.</cs_CZ>
+<hu_HU>Továbbfejlesztett funkciók: exportálás többféle méretben, konvertálás sRGB formátumba, metaadatok hozzáadása, új PNG opciók és akár 3-szor gyorsabb működés.</hu_HU>
+<ru_RU>Улучшены функциональные возможности, включая экспорт файлов разных размеров, преобразование в sRGB, добавление метаданных, новые параметры для формата PNG и повышение производительности до 3 раз.</ru_RU>
+<pt_BR>A funcionalidade aprimorada inclui exportação para vários formatos, conversão para sRGB, adição de metadados, novas opções de PNG e desempenho até 3x mais rápido.</pt_BR>
+<uk_UA>Серед нових удосконалень варто зазначити експортування файлів різних розмірів, перетворення на sRGB, додавання метаданих, нові можливості PNG та втричі більшу продуктивність.</uk_UA>
+<tr_TR>Geliştirilmiş işlevler arasında farklı boyutlarda dışa aktarma, sRGB’ye dönüştürme, meta veri ekleme, yeni PNG seçenekleri ve 3 kata kadar daha hızlı performans yer alıyor.</tr_TR>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobePhotoshopCC2015-16.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>1750697</Size>
+<SignatureType>1</SignatureType>
+<Signature>DLaRcbyWG9vobqCMzNySJO+XHpV2XVLmDj3xoxYdCKx3sGEXV8kwog486YrEYgREnwNAGk0e86xJhEa6fsg/0FC4Kx2NIKApsm78GqUbBvjLuOFpwRFRr+OmSXutpQFne2uDxgrnnFdzwCOeeHCD3aQEKZvwxPoMNNvN5iF2czIvaCyW11hyodOhs7bPmcbDdp8rcxlwEOFunva9vDf80Bb7UMD6KG85eyja/DkvZnCAB+BwJNZRnNlrzjENvzR/tN+Yc5ay/jYWtpDJ/PJsRXeb5fbusDimRRo4UOAbx4xz4qs05Sqcrdi6LzFIBszgYbRets8tRyMe61gu/GLilaUKmp+8dIV8PSGal4deuHiVaRsK6u2NGA+uNWN/D6P6YCxMw8lYCSvdBV11u2lStXuJTouXaX4JLxLpXGLm4ojQGwpzF2T+fhYZU2P6W4xzvUjURxMuoaDSdLEnuUKeIvN01DPDnwtHToIsQHVzcti58s8gu5tYNMMl00DuADek</Signature>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" PreviewPatch="0" ReFetch="0" RefID="AdobePreviewCC-1.0.0/1.1.3" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobePreviewCC-1.0.0</ChannelID>
+</Recommendation>
+<Recommendation>
+<ChannelID>AdobePhotoshopCC2015-16.0</ChannelID>
+<LEID>V7{}Photoshop-16-Win-GM</LEID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Adobe Preview CC</en_US>
+<de_DE>Adobe Preview CC</de_DE>
+<fr_FR>Adobe Preview CC</fr_FR>
+<it_IT>Adobe Preview CC</it_IT>
+<ja_JP>Adobe Preview CC</ja_JP>
+<es_ES>Adobe Preview CC</es_ES>
+<sv_SE>Adobe Preview CC</sv_SE>
+<zh_CN>Adobe Preview CC</zh_CN>
+<zh_TW>Adobe Preview CC</zh_TW>
+<nl_NL>Adobe Preview CC</nl_NL>
+<ko_KR>Adobe Preview CC</ko_KR>
+<nb_NO>Adobe Preview CC</nb_NO>
+<da_DK>Adobe Preview CC</da_DK>
+<fi_FI>Adobe Preview CC</fi_FI>
+<pl_PL>Adobe Preview CC</pl_PL>
+<cs_CZ>Adobe Preview CC</cs_CZ>
+<hu_HU>Adobe Preview CC</hu_HU>
+<ru_RU>Adobe Preview CC</ru_RU>
+<pt_BR>Adobe Preview CC</pt_BR>
+<uk_UA>Adobe Preview CC</uk_UA>
+<tr_TR>Adobe Preview CC</tr_TR>
+</DisplayName>
+<Description default="en_US">
+<en_US>New option to manually check for Wi-Fi devices. Fixed issues with Wi-Fi connections, preview image updating, and color accuracy.</en_US>
+<fr_FR>Nouvelle option permettant de rechercher manuellement les appareils Wi-Fi. Correction de problèmes de connexion Wi-Fi, de mise à jour de l&apos;image d&apos;aperçu et de précision des couleurs.</fr_FR>
+<de_DE>Neue Option für die manuelle Suche nach WLAN-Geräten. Fehlerbehebungen für WLAN-Verbindungen, die Aktualisierung von Vorschaubildern und die Farbgenauigkeit.</de_DE>
+<it_IT>Nuova opzione per cercare manualmente dispositivi Wi-Fi. Correzione dei problemi relativi alle connessioni Wi-Fi, all&apos;aggiornamento dell&apos;immagine di anteprima e alla precisione cromatica.</it_IT>
+<ja_JP>Wi-Fi デバイスを手動で確認する機能を追加し、Wi-Fi 接続、プレビュー画像の更新、およびカラーの正確さに関する問題を修正しました。</ja_JP>
+<es_ES>Nueva opción para comprobar manualmente si hay dispositivos Wi-Fi. Se han corregido problemas relacionados con las conexiones Wi-Fi, la actualización de imágenes de previsualización y la precisión de los colores.</es_ES>
+<sv_SE>Nytt alternativ som du kan använda till att söka efter Wi-Fi-enheter manuellt. Problem med Wi-Fi-anslutningar, uppdatering av förhandsvisningsbilder och färgåtergivning har åtgärdats.</sv_SE>
+<zh_CN>用于手动检查 Wi-Fi 设备的新选项。修复了 Wi-Fi 连接、预览图像更新和颜色精准度的问题。</zh_CN>
+<zh_TW>提供手動檢查無線網路裝置的新功能。已修正無線網路連線、預覽圖片更新和色彩的正確性。</zh_TW>
+<nl_NL>Nieuwe optie om handmatig te controleren op wifi-apparaten. Problemen verholpen met wifi-verbindingen, het bijwerken van voorvertoningen van afbeeldingen, en kleurprecisie.</nl_NL>
+<cs_CZ>Nová volba pro ruční kontrolu přítomnosti Wi-Fi zařízení. Opraveny chyby připojení Wi-Fi, aktualizace obrazů náhledu a přesnosti barev.</cs_CZ>
+<nb_NO>Nytt alternativ for å søke etter Wi-Fi-enheter manuelt. Løsning av problemer med Wi-Fi-tilkobling, oppdatering av forhåndsvisningsbilde og fargenøyaktighet.</nb_NO>
+<da_DK>Ny indstilling til manuel søgning efter Wi-Fi-enheder. Har løst problemer med Wi-Fi-forbindelser, opdatering af eksempelbillede og farvenøjagtighed.</da_DK>
+<fi_FI>Uusi mahdollisuus tarkistaa Wi-Fi-laitteet manuaalisesti. Korjattu Wi-Fi-yhteyksien, esikatselukuvan päivityksen ja värien tarkkuuden ongelmia.</fi_FI>
+<pl_PL>Wprowadzono nową opcję umożliwiającą ręczne sprawdzenie dostępności urządzeń Wi-Fi. Naprawiono problem z połączeniem Wi-Fi, aktualizacją podglądu obrazu i zachowaniem wierności kolorów.</pl_PL>
+<ko_KR>Wi-Fi 기기를 수동으로 확인하는 신규 옵션. Wi-Fi 연결 관련 문제 수정, 이미지 미리보기 업데이트, 색 정확도.</ko_KR>
+<hu_HU>Új opció a Wi-Fi-s eszközök kézi keresésére. Hibajavítások a Wi-Fi-kapcsolatokkal, az előnézeti kép frissítésével és a színpontossággal kapcsolatban.</hu_HU>
+<ru_RU>Новый параметр для проверки наличия устройств Wi-Fi вручную. Исправлены проблемы, связанные с соединениями Wi-Fi, обновлением изображений предпросмотра и точностью передачи цвета.</ru_RU>
+<pt_BR>Nova opção para procurar manualmente por dispositivos Wi-Fi. Corrigidos problemas com as conexões Wi-Fi , atualização da visualização de imagem e precisão de cores.</pt_BR>
+<uk_UA>Доступна нова функція перевірки вручну на наявність пристроїв із Wi-Fi. Виправлено помилки, пов’язані з підключенням до Wi-Fi, оновлені зображення для попереднього перегляду, а також збільшено точність передачі кольору.</uk_UA>
+<tr_TR>Wi-Fi aygıtlarını manuel olarak kontrol etmek için yeni seçenek. Wi-Fi bağlantıları, önizleme görüntüsü güncelleme ve renk doğruluğuna ilişkin sorunlar giderilmiştir.</tr_TR>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobePhotoshopCC2015-16.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>Setup/AdobePatchInstaller.exe</ExecutableName>
+<Size>8890266</Size>
+<SignatureType>1</SignatureType>
+<Signature>NKNQ/FX00IJULP7NNTmGNd4BG3h7kzXxFEe7rhTi2xxNHNOdPrIRfNx0XfhO1mCVucEtC/WR/reKgrq0c0XXj0LkL3khEgMgmdxt0bLAatdJqDmZQN6VDC74J094073fz9Fgh8x+N4IJw7Z0ohv37f4a3I7yQcfMcIKLZTI1q5/rv/FmZEvARYo0upoWsA/zCzwQb3wXwMcWRuGs/XdP/VIhmT+YVclNoj9raPNVTOP/YkFOtN2V+uSDDTjj/ipMoriJ6xPMfkc8/wN+diTGceFjKmvKcBuue8RpQfol9T1DqIJPH20ewGC1SN7hwFRDsfrPbDfsZ0MgZGD0QqjF4aYw5lDtzyL9Lceq9Tk7YNjuNg/zpVSJyE136ZSX8w/2+CIXK2YHK8BN3rdKrr1seb4jrHo9ljwHSJbGKjGYBFbEwomt8V3i8Mj+kwuhLL2sPeadqSbTfAUcugSVWcudkkbDhUukdm9RdrOn5mKK/tBCqpJ/quP2xsN//wAVHPMi</Signature>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="1" PreviewPatch="0" ReFetch="0" RefID="PhotoshopCameraRaw8-8.0/10.5.32" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>PhotoshopCameraRaw8-8.0</ChannelID>
+<UpdateID>10.5.32</UpdateID>
+<OwningID>PhotoshopCameraRaw864bit-8.0</OwningID>
+<LEID>Camera_Raw-8-Win-GM</LEID>
+</Recommendation>
+<Recommendation>
+<ChannelID>PhotoshopCameraRaw8-8.0</ChannelID>
+<UpdateID>10.5.32</UpdateID>
+<OwningID>CameraProfilesInstaller-8.0</OwningID>
+<LEID>Camera_Raw-8-Win-GM</LEID>
+</Recommendation>
+<Recommendation>
+<ChannelID>PhotoshopCameraRaw8-8.0</ChannelID>
+<LEID>Camera_Raw-8-Win-GM</LEID>
+<UpdateID>10.5.32</UpdateID>
+<OwningID>PhotoshopCameraRaw8-8.0</OwningID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Photoshop Camera Raw 10.5(CC)</en_US>
+<de_DE>Photoshop Camera Raw 10.5(CC)-Update</de_DE>
+<fr_FR>Mise à jour 10.5(CC) de Photoshop Camera Raw</fr_FR>
+<fr_CA>Mise à jour 10.5(CC) de Photoshop Camera Raw</fr_CA>
+<fr_MA>Mise à jour 10.5(CC) de Photoshop Camera Raw</fr_MA>
+<it_IT>Aggiornamento di Photoshop Camera Raw 10.5(CC)</it_IT>
+<ja_JP>Photoshop Camera Raw 10.5(CC) アップデート</ja_JP>
+<es_ES>Actualización Photoshop Camera Raw 10.5(CC)</es_ES>
+<es_MX>Actualización Photoshop Camera Raw 10.5(CC)</es_MX>
+<sv_SE>Uppdatering till Photoshop Camera Raw 10.5(CC)</sv_SE>
+<zh_CN>Photoshop Camera Raw 10.5(CC) 更新</zh_CN>
+<zh_TW>Photoshop Camera Raw 10.5(CC) 更新</zh_TW>
+<nl_NL>Photoshop Camera Raw 10.5(CC)-update</nl_NL>
+<ko_KR>Photoshop Camera Raw 10.5(CC) 업데이트</ko_KR>
+<nb_NO>Oppdatering for Photoshop Camera Raw 10.5(CC)</nb_NO>
+<da_DK>Photoshop Camera Raw 10.5(CC)-opdatering</da_DK>
+<fi_FI>Photoshop Camera Raw 10.5(CC) -päivitys</fi_FI>
+<pl_PL>Photoshop Camera Raw 10.5(CC) – aktualizacja</pl_PL>
+<cs_CZ>Aktualizace Photoshop Camera Raw 10.5(CC)</cs_CZ>
+<ro_RO>Actualizare Photoshop Camera Raw 10.5(CC)</ro_RO>
+<hu_HU>Photoshop Camera Raw 10.5(CC) frissítés</hu_HU>
+<ru_RU>Обновление Photoshop Camera Raw 10.5(CC)</ru_RU>
+<pt_BR>Atualização do Photoshop Camera Raw 10.5(CC)</pt_BR>
+<uk_UA>Оновлення Photoshop Camera Raw 10.5(CC)</uk_UA>
+<tr_TR>Photoshop Camera Raw 10.5(CC) Güncellemesi</tr_TR>
+</DisplayName>
+<Description default="en_US">
+<en_US>Update to the Camera Raw plug-in that ships with Photoshop CC. Adds raw support for new camera models.</en_US>
+<fr_FR>Mise à jour du module externe Camera Raw fourni avec Photoshop CC. Ajoute la prise en charge des fichiers Raw pour les nouveaux modèles d&apos;appareils photo.</fr_FR>
+<fr_CA>Mise à jour du module externe Camera Raw fourni avec Photoshop CC. Ajoute la prise en charge des fichiers Raw pour les nouveaux modèles d&apos;appareils photo.</fr_CA>
+<fr_MA>Mise à jour du module externe Camera Raw fourni avec Photoshop CC. Ajoute la prise en charge des fichiers Raw pour les nouveaux modèles d&apos;appareils photo.</fr_MA>
+<de_DE>Update für das Camera Raw-Zusatzmodul, das im Lieferumfang von Photoshop CC enthalten ist. Zusätzliche Unterstützung für Raw-Dateien aus neuen Kameramodellen.</de_DE>
+<it_IT>Eseguite l&apos;aggiornamento del plug-in di Camera Raw in dotazione con Photoshop CC. Consente il supporto per i file raw per nuovi modelli di fotocamere.</it_IT>
+<ja_JP>Photoshop CC に同梱されている Camera Raw プラグインに更新します。 新しいカメラモデル対応の Raw サポートが追加されます。</ja_JP>
+<es_ES>Actualización para el plugin Camera Raw suministrado con Photoshop CC. Permite la compatibilidad con los archivos RAW de los nuevos modelos de cámara.</es_ES>
+<es_MX>Actualización para el plugin Camera Raw suministrado con Photoshop CC. Permite la compatibilidad con los archivos RAW de los nuevos modelos de cámara.</es_MX>
+<sv_SE>Uppdatera plugin-programmet Camera Raw som levereras med Photoshop CC. Lägger till stöd för raw-format för nya kameramodeller.</sv_SE>
+<zh_CN>Photoshop CC 随附的 Camera Raw 插件的更新。针对新相机型号增加 raw 文件格式支持。</zh_CN>
+<zh_TW>更新 Photoshop CC 隨附的 Camera Raw 增效模組。 新增對新相機機型的原生支援。</zh_TW>
+<nl_NL>Update voor de Camera Raw-plug-in die bij Photoshop CC wordt geleverd. Voegt RAW-ondersteuning toe voor nieuwe cameramodellen.</nl_NL>
+<cs_CZ>Aktualizace zásuvného modulu Camera Raw, dodávaného s aplikací Photoshop CC. Přidává podporu formátu raw u nových modelů fotoaparátů.</cs_CZ>
+<nb_NO>Oppdatering for tilleggsmodulen Camera Raw som leveres med Photoshop CC. Legger til ekte støtte for nye kameramodeller.</nb_NO>
+<da_DK>Opdatering til Camera Raw-ekstramodulet, der leveres sammen med Photoshop CC. Føjer Raw-understøttelse til nye kameramodeller.</da_DK>
+<fi_FI>Photoshop CC:n mukana toimitettavan Camera Raw -laajennuksen päivitys. Lisää raw-tuen uusille kameramalleille.</fi_FI>
+<pl_PL>Aktualizacja wtyczki Camera Raw, która jest dołączona do programu Photoshop CC. Dodaje obsługę RAW dla nowych modeli aparatów.</pl_PL>
+<ko_KR>Photoshop CC와 함께 제공된 Camera Raw 플러그인을 업데이트합니다. 새 카메라 모델의 raw 파일 지원 추가.</ko_KR>
+<ro_RO>Actualizaţi la plugin-ul Camera Raw livrat cu Photoshop CC. Acesta adaugă compatibilitate cu formate brute de la noi modele de camere foto.</ro_RO>
+<hu_HU>A Photoshop CC verzióhoz tartozó Camera Raw bővítmény frissítése. Biztosítja a raw-formátum támogatását újabb fényképezőgép-típusok esetében is.</hu_HU>
+<ru_RU>Обновление внешнего модуля Camera Raw, который входит в комплект поставки Photoshop CC. Добавлена поддержка формата raw для новых моделей камер.</ru_RU>
+<pt_BR>Atualização do plug-in do Camera Raw fornecido com o Photoshop CC. Inclusão de suporte adicional para novos modelos de câmeras.</pt_BR>
+<uk_UA>Оновлення для модуля Camera Raw, що постачається з пакетом Photoshop CC. Додано підтримку формату raw для нових моделей фотокамер.</uk_UA>
+<tr_TR>Photoshop CC ile birlikte verilen Camera Raw eklentisine güncelleyin. Yeni fotoğraf makinesi modelleri için raw desteği sağlar.</tr_TR>
+</Description>
+<AffectedChannels>
+<ChannelID>PhotoshopCameraRaw8-8.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>336823694</Size>
+<SignatureType>1</SignatureType>
+<Signature>fpB9fJ5GCKU/rQqGoQg4frwzxmNvAWT68vRyDkmqzAd5SGj85RlGM9bMdal3F7V73zVAMaI0i1sGv27zh2qPw6EuopTGEFe/QPLswLwC8wspX9Z7tHxpOdKK3NSXlwFpVgd7G1m/a7zQhxmrEqEJi0kbp0K4mQfTZlvbzxwc/r1+Lh5m7jvgYByDHH8Lpi1i1SW82jkSvoXJ5qtYDCIQMa0GDlcDbI0tC63UrlvkUCA2d5Cdzk4ocB6DtbT2INv1W0nTtcJqq0Sc5JImxx3jFBexaVUGYtCvZpqtgFX+sxpbL/F5+vLADsCuJ4Pcm6tTFPILII8GkZzTq0/vZ3+qPznRGNNr/tH3UF+NJTRp7zpik7gXhD3A4ePSqKGvdsgLmxofIIqWyNr8aajN4ybp5j6AqvqLTJGNV82B7prudbBut2bfj8AgmZM+RuiJB/qEm1TTqiHfsPydhJsKWTLbtmt9Wj5AWWuGIttlEnqLhKjyKlBriIyulO/KXAKj0aBH</Signature>
+<CompareType name="OSPlatformLookup">
+<TargetValue>6.1</TargetValue>
+<Operator>GreaterThan</Operator>
+</CompareType>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+</Updates>

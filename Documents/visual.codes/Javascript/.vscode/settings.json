@@ -1,0 +1,6 @@
+{
+    "editor.suggest.statusBar.visible": true,
+    "problems.showCurrentInStatus": true,
+    "zenMode.hideStatusBar": false,
+    "git.ignoreLimitWarning": true
+}

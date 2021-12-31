@@ -1,0 +1,125 @@
+<html>
+    <head>
+        <title>javascript</title>
+        <style type="text/css">
+            .circle {
+                border-radius: 50%;
+                height:100px;
+                width: 100px;
+                margin: 30px;
+                float: left;
+                
+            }
+            #red {
+                background-color: red;
+            }
+            #blue {
+                background-color: blue;
+            }
+            #green{
+                background-color: green;
+            }
+
+            #tweetDiv {
+                float: left;
+            }
+        </style>
+        
+    </head>
+    <body>
+        <button onclick="alert ('HEY')">click on this!</button>
+        <br>
+        <button id="myButton">change text</button>
+        <p id="run" >this is another paragraph tobe run!</p>
+        <p id="text">how do you feel when you start writing REAL codes</p>
+        <p id="secondParagraph">javascript is ...</p>
+        <button id="Button">change text</button>
+
+
+        <p id="emptyParagraph"></p>
+        <button id="creatText">creat text</button>
+
+        <p id="styledText">I wanna be styled</p>
+        <button id="styleButton">Style Text</button>
+
+        <div class="circle" id="red"> </div>
+        <div class="circle" id="blue"> </div>
+        <div class="circle" id="green"> </div>
+
+      
+        <p><div id="tweetDiv" ></div></p>
+
+        <br>
+        <div><p>How many fingers are you holding up?</p></div>
+        <p><input type="text" id="myNumber"></p>
+        <button id="guess">Guess</button>
+
+
+
+
+
+
+        <script type="text/javascript">
+
+            document.getElementById("guess").onclick = function () {
+                var myNumber = document.getElementById("myNumber").value;
+                    alert(myNumber);
+
+            }
+
+
+            document.getElementById("red").onclick = function () {
+               
+                document.getElementById("red").style.display = "none"
+            }
+
+            document.getElementById("blue").onclick = function () {
+               
+               document.getElementById("blue").style.display = "none"
+           }
+
+           document.getElementById("green").onclick = function () {
+               document.getElementById("green").style.display = "none";
+           }
+              
+
+            
+            
+            document.getElementById ("myButton").onclick = function() { 
+                document.getElementById("text").innerHTML = "welcome";
+                
+                document.getElementById("run").innerHTML = "Hello israel";
+            }
+
+
+            var tweetString ="";
+            var tweets = ["hi everyone!","i love gldenmorn","hope you slept well?", "good morning :)"]
+
+            for (var i = 0; i < tweets.length; i++ ) {
+                tweetString = tweetString + "<p>" + tweets[i] + "</p>"
+            }
+
+            document.getElementById("tweetDiv").innerHTML = tweetString;
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </script>
+
+
+
+
+
+
+
+    </body>
+</html>

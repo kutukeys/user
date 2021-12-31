@@ -1,0 +1,392 @@
+{ 
+	"bounds":
+	{
+		"y":"0"		,
+		"x":"0"		,
+		"height":"720"		,
+		"width":"1280"
+	}
+	,
+	"section":
+	{
+		"segments":
+		[
+			{
+				"beginTime":"0"				,
+				"duration":"19.5"				,
+				"layerTree":"e1811f93-50e6-4c91-b0a6-5953032df97d"
+			}
+			,
+			{
+				"beginTime":"0"				,
+				"duration":"9"				,
+				"layerTree":"9a46d2c3-b29c-4a6d-b64e-e1cdc9d7b215"
+			}
+			,
+			{
+				"beginTime":"6.5"				,
+				"duration":"9"				,
+				"layerTree":"c5a2aee9-d26c-4098-9e36-1ccc535f2090"
+			}
+			,
+			{
+				"beginTime":"13"				,
+				"duration":"6.5"				,
+				"layerTree":"3805c1b8-49ec-4b39-acd0-d47438e9eeb2"
+			}
+
+		]
+
+	}
+	,
+	"layertree_map":
+	{
+		"9a46d2c3-b29c-4a6d-b64e-e1cdc9d7b215":
+		{
+			"sublayers":
+			[
+				{
+					"contentsGravityFill":"false"					,
+					"bounds":
+					{
+						"y":"0"						,
+						"x":"0"						,
+						"height":"476"						,
+						"width":"476"
+					}
+					,
+					"position":
+					{
+						"y":"360"						,
+						"x":"640"
+					}
+					,
+					"sublayers":
+					[
+						{
+							"contentsGravityFill":"false"							,
+							"bounds":
+							{
+								"y":"0"								,
+								"x":"0"								,
+								"height":"476"								,
+								"width":"476"
+							}
+							,
+							"contents":
+							{
+								"asset":"7b9d9add-0924-4440-8fc5-fbe53c7797de"								,
+								"type":"photo"
+							}
+							,
+							"position":
+							{
+								"y":"238"								,
+								"x":"238"
+							}
+
+						}
+
+					]
+					,
+					"masksToBounds":"true"
+				}
+				,
+				{
+					"contentsGravityFill":"false"					,
+					"bounds":
+					{
+						"y":"0"						,
+						"x":"0"						,
+						"height":"720"						,
+						"width":"1280"
+					}
+					,
+					"contents":
+					{
+						"asset":"a568fa5d-3fd7-437f-82d0-10660d439cdd"						,
+						"type":"photo"
+					}
+					,
+					"position":
+					{
+						"y":"360"						,
+						"x":"640"
+					}
+					,
+					"zPosition":"3"					,
+					"masksToBounds":"true"
+				}
+
+			]
+			,
+			"bounds":
+			{
+				"y":"0"				,
+				"x":"0"				,
+				"height":"720"				,
+				"width":"1280"
+			}
+			,
+			"contents":
+			{
+				"asset":"d9d93fa9-5da0-4608-ab57-4e80ad9f65dd"				,
+				"type":"photo"
+			}
+			,
+			"position":
+			{
+				"y":"360"				,
+				"x":"640"
+			}
+			,
+			"animations":
+			[
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"0"					,
+					"timingFunction":"linear"					,
+					"beginTime":"0"					,
+					"duration":"2.5"					,
+					"toValue":"1"
+				}
+				,
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"1"					,
+					"timingFunction":"linear"					,
+					"beginTime":"6.5"					,
+					"duration":"2.5"					,
+					"toValue":"0"
+				}
+
+			]
+
+		}
+		,
+		"e1811f93-50e6-4c91-b0a6-5953032df97d":
+		{
+			"animations":
+			[
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"0"					,
+					"timingFunction":"linear"					,
+					"beginTime":"0"					,
+					"duration":"2.5"					,
+					"toValue":"1"
+				}
+
+			]
+			,
+			"bounds":
+			{
+				"y":"0"				,
+				"x":"0"				,
+				"height":"720"				,
+				"width":"1280"
+			}
+			,
+			"contents":
+			{
+				"asset":"globalBackground.png"				,
+				"type":"photo"
+			}
+			,
+			"position":
+			{
+				"y":"360"				,
+				"x":"640"
+			}
+
+		}
+		,
+		"3805c1b8-49ec-4b39-acd0-d47438e9eeb2":
+		{
+			"animations":
+			[
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"0"					,
+					"timingFunction":"linear"					,
+					"beginTime":"0"					,
+					"duration":"2.5"					,
+					"toValue":"1"
+				}
+
+			]
+			,
+			"bounds":
+			{
+				"y":"0"				,
+				"x":"0"				,
+				"height":"720"				,
+				"width":"1280"
+			}
+			,
+			"sublayers":
+			[
+				{
+					"contentsGravityFill":"false"					,
+					"bounds":
+					{
+						"y":"0"						,
+						"x":"0"						,
+						"height":"720"						,
+						"width":"1280"
+					}
+					,
+					"contents":
+					{
+						"asset":"3f729609-516f-483e-985f-6330b3eb05c1"						,
+						"type":"photo"
+					}
+					,
+					"position":
+					{
+						"y":"360"						,
+						"x":"640"
+					}
+					,
+					"masksToBounds":"true"
+				}
+
+			]
+			,
+			"position":
+			{
+				"y":"360"				,
+				"x":"640"
+			}
+
+		}
+		,
+		"c5a2aee9-d26c-4098-9e36-1ccc535f2090":
+		{
+			"sublayers":
+			[
+				{
+					"contentsGravityFill":"false"					,
+					"bounds":
+					{
+						"y":"0"						,
+						"x":"0"						,
+						"height":"467"						,
+						"width":"476"
+					}
+					,
+					"position":
+					{
+						"y":"359.5"						,
+						"x":"640"
+					}
+					,
+					"sublayers":
+					[
+						{
+							"contentsGravityFill":"false"							,
+							"bounds":
+							{
+								"y":"0"								,
+								"x":"0"								,
+								"height":"467"								,
+								"width":"476"
+							}
+							,
+							"contents":
+							{
+								"asset":"57b400ea-6670-4bec-abbc-30599dad8d2a"								,
+								"type":"photo"
+							}
+							,
+							"position":
+							{
+								"y":"233.5"								,
+								"x":"238"
+							}
+
+						}
+
+					]
+					,
+					"masksToBounds":"true"
+				}
+				,
+				{
+					"contentsGravityFill":"false"					,
+					"bounds":
+					{
+						"y":"0"						,
+						"x":"0"						,
+						"height":"720"						,
+						"width":"1280"
+					}
+					,
+					"contents":
+					{
+						"asset":"17cfd16c-d3de-4c4f-b746-186db494cc9d"						,
+						"type":"photo"
+					}
+					,
+					"position":
+					{
+						"y":"360"						,
+						"x":"640"
+					}
+					,
+					"zPosition":"3"					,
+					"masksToBounds":"true"
+				}
+
+			]
+			,
+			"bounds":
+			{
+				"y":"0"				,
+				"x":"0"				,
+				"height":"720"				,
+				"width":"1280"
+			}
+			,
+			"contents":
+			{
+				"asset":"41ff5e4a-b8eb-4e19-853d-5945180bdec5"				,
+				"type":"photo"
+			}
+			,
+			"position":
+			{
+				"y":"360"				,
+				"x":"640"
+			}
+			,
+			"animations":
+			[
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"0"					,
+					"timingFunction":"linear"					,
+					"beginTime":"0"					,
+					"duration":"2.5"					,
+					"toValue":"1"
+				}
+				,
+				{
+					"keyPath":"opacity"					,
+					"fromValue":"1"					,
+					"timingFunction":"linear"					,
+					"beginTime":"6.5"					,
+					"duration":"2.5"					,
+					"toValue":"0"
+				}
+
+			]
+
+		}
+
+	}
+	,
+	"cacheWindowPlusHint":"10"	,
+	"cacheWindowMinusHint":"0"	,
+	"initialStartTimeHint":"0"
+}

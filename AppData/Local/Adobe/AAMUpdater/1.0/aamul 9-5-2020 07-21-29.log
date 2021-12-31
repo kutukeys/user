@@ -1,0 +1,22 @@
+2020-09-03T21:10:56: >>> Adobe Updater Log Begin >>>
+2020-09-03T21:10:56: Application Version: 6.0.0.67
+2020-09-03T21:10:56: cmdline option: -logFile = C:\Users\user\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2020-09-03T21:10:56: cmdline option: -logLevel = 2
+2020-09-03T21:10:56: StartupUtility : Loaded at startup/logon.
+2020-09-03T21:10:56: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2020-09-03T21:10:56: Updater has never been run on the machine.
+2020-09-03T21:10:56: StartupUtility : Window is NOT Elapsed.
+2020-09-03T21:10:56: <<< Adobe Updater Log End <<<
+
+
+2020-09-03T22:13:02: >>> Adobe Updater Log Begin >>>
+2020-09-03T22:13:02: Application Version: 6.0.0.67
+2020-09-03T22:13:02: cmdline option: -logFile = C:\Users\user\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2020-09-03T22:13:02: cmdline option: -logLevel = 2
+2020-09-03T22:13:02: StartupUtility : Loaded at startup/logon.
+2020-09-03T22:13:02: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2020-09-03T22:13:02: Updater has never been run on the machine.
+2020-09-03T22:13:02: StartupUtility : Window is NOT Elapsed.
+2020-09-03T22:13:02: <<< Adobe Updater Log End <<<
+
+
